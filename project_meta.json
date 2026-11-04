@@ -1,10 +1,17 @@
 {
-  "seq": 78,
   "title": "Dental Clinic Appointment Booking and Reminder System",
-  "slug": "dental-clinic-appointment-booking-and-reminder-system",
+  "old_slug": "dental-clinic-appointment-booking-and-reminder-system",
+  "slug": "dental-clinic-booking-system",
   "folder": "Dental_Clinic_Appointment_Booking_And_Reminder_System",
-  "kind": "app",
-  "body_words": 240,
+  "kind": "product",
+  "body_words": 301,
+  "source": "MICT Academic",
   "project_id": "Academic Project 21",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
